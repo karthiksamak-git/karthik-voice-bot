@@ -36,11 +36,12 @@ body {
     background-size: 400% 400%;
     animation: gradientShift 15s ease infinite;
     color: var(--text-primary);
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
     position: relative;
 }
 
@@ -131,6 +132,7 @@ body {
     width: 100%;
     max-width: 700px;
     padding: 2rem;
+    margin: 2rem 0;
     position: relative;
     z-index: 10;
 }

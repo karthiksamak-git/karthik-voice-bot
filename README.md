@@ -238,3 +238,9 @@ For issues or questions, refer to the troubleshooting section above or check the
 ---
 
 Built with Flask, Groq AI, and Web Speech API
+
+## Images
+<img width="1867" height="1076" alt="Screenshot 2026-01-20 195126" src="https://github.com/user-attachments/assets/7b0461dd-2137-4c80-a4cb-0d1e1f7251e2" />
+<img width="1850" height="1079" alt="Screenshot 2026-01-20 195242" src="https://github.com/user-attachments/assets/bb83da64-d1e0-4b7e-b869-a43578ba6195" />
+
+
